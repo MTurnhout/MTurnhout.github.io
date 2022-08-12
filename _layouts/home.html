@@ -34,8 +34,8 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-        
-        {% if post.tags %}
+
+        {% if post.tags != empty %}
           <small>tags: <em>{{ post.tags | join: "</em> - <em>" }}</em></small>
         {% endif %}
       </li>
