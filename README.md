@@ -1,5 +1,9 @@
 # MTurnhout.github.io
 
+## Status
+
+[![Deploy Jekyll site to Pages](https://github.com/MTurnhout/MTurnhout.github.io/actions/workflows/pages.yml/badge.svg)](https://github.com/MTurnhout/MTurnhout.github.io/actions/workflows/pages.yml)
+
 ## Development
 
 ### Requirements
